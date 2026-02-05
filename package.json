@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -19,6 +19,6 @@
     "vite": "^5.4.21"
   },
   "engines": {
-    "node": "24.x"
+    "node": "18.x"
   }
 }
